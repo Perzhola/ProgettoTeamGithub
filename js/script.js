@@ -10,7 +10,7 @@
                 lightIcon.style.display = 'none';
                 darkIcon.style.display = 'block';
                 localStorage.setItem('theme', 'dark');
-            } else{
+            } else {
                 htmlElement.removeAttribute('data-theme');
                 lightIcon.style.display = 'block';
                 darkIcon.style.display = 'none';
