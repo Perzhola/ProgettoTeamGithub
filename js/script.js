@@ -34,7 +34,7 @@
         });
 
         // Typing Effect Logic
-        const textToType = "trebolone gang";
+        const textToType = "trenbolone gang";
         const typeWriterElement = document.getElementById('typewriter');
         let charIndex = 0;
         let isDeleting = false;
